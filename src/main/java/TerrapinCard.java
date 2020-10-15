@@ -38,7 +38,7 @@ public class TerrapinCard {
 	}
 
   public String toString() {
-    return "This card has " + balance + " dollars";
+    return "The card has " + balance + " dollars";
   }
 
 }
